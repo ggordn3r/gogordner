@@ -3,12 +3,11 @@ project:
   render: 
     - "index.qmd"
     - "experience.qmd"
-    - "priorities.qmd"
+    - "join-me.qmd"
   output-dir: docs
   
-
 website:
-  # title: "Trey Gordner - Ewa Neighborhood Board"
+  # title: "Trey Gordner - Home"
   # image: TG_1-color_website.png
   # navbar:
   #   right:
@@ -17,7 +16,7 @@ website:
   #     - about.qmd
   #     - platform.qmd
   sidebar: 
-    title: "Trey Gordner - Ewa NB Member"
+    title: "Trey Gordner - Home"
     # logo: TG_1-color_website.png
     contents: auto
     search: false
